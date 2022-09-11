@@ -10,6 +10,8 @@ h6{
 }
 p{
     color: #ffff;
+    line-height: 2;
+    letter-spacing: 2;
 }
 th , td{
     color: #7F5283;
@@ -42,12 +44,12 @@ ul{
     font-family: 'Montserrat Alternates', sans-serif;
 }
 .sa{
-    color: #ffff;
+    color: #7F5283;
     font-family: 'Montserrat Alternates', sans-serif;
     transition: all 1s;
 }
 .ma{
-    color: #fff;
+    color: #7F5283;
     transition: all 1s;
 }
 .profile{
@@ -134,15 +136,12 @@ transition: all 0.5s;
 transition: all 0.5s;
 }
 /* pseudo clases */
-.ma:hover{
-    color: #7F5283;
-    font-size: 2rem;
- }
+
 .sa:hover{
      font-size: 1.2rem;
-     background-color:#7F5283 ;
+     background-color:#fff ;
      border-radius: 10px;
-     color: #ffff;
+     color: #7F5283;
  }
  .profile:hover{
     width: 30%;
