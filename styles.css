@@ -46,11 +46,11 @@ ul{
 .sa{
     color: #7F5283;
     font-family: 'Montserrat Alternates', sans-serif;
-    transition: all 1s;
+    transition: all 1s ease 0s;
 }
 .ma{
     color: #7F5283;
-    transition: all 1s;
+    transition: all 1s ease 0s;
 }
 .profile{
     width: 25%;
